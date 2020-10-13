@@ -1,4 +1,5 @@
 # assignment-1-java
+
 import java.util.*;
 import java.io.*;
 public class employee
@@ -41,4 +42,5 @@ The age is:20
 The city is: Chennai
 The name is:Muheed
 The age is:15
-The city is:Bangalore
+The city is:Bangalore.
+
