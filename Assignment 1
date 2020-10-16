@@ -1,4 +1,4 @@
-# assassignment-1-java 
+#assignment-1-java 
 
 import java.util.*;
 import java.io.*;
@@ -10,9 +10,9 @@ public String city;
 	
 public void display()
 {
-System.out.println("The name is:"+name);
-System.out.println("The age is:"+age);
-System.out.println("The city is:"+city);
+System.out.println("\nThe name is:"+name);
+System.out.println("\nThe age is:"+age);
+System.out.println("\nThe city is:"+city);
 }
                
 
